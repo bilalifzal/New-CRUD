@@ -1,0 +1,26 @@
+/* project 1 html */
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+h4{
+    style="color: brown;"  style="text-align: left ;"  style="font-size: 16;"
+}
+
+img{
+    width: 100px;
+}
+
+p{
+    font-weight: bold;
+}
+
+.para{
+    font-weight: bold;
+}
+
+ol{
+    line-height: 5px;
+}
